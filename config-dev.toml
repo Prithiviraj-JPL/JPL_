@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://prithiviraj-jpl.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Okkur - Syna"
+title = "prithiviraj-jpl"
 theme = "syna"
 themesDir = "../.."
 enableGitInfo = true
@@ -28,8 +28,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Prithiviraj"
+  description = "Statistician"
   debug = true
   unsafeEvents = true # Default is false. Enables ?event=type format of url events.
 
@@ -40,7 +40,7 @@ lastmod = ["lastmod", ":git", "date"]
   # Assets relative to 'static/'
   [params.custom]
     favicon = "favicon.ico"
-    favicon_ico_sizes = "16x16 32x32"
+    favicon_ico_sizes = "32x32 32x32"
     favicon_png = "favicon.png"
     favicon_svg = "favicon.svg"
 
@@ -80,17 +80,17 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/fragments"
-  name = "Fragments"
+  name = "Project"
   weight = 20
 
 [[menu.main]]
   url = "/docs"
-  name = "Docs"
+  name = "Report"
   weight = 30
 
 [[menu.main]]
   url = "/dev"
-  name = "Dev Section"
+  name = "Development"
   weight = 35
   identifier = "dev"
 

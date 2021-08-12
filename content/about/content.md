@@ -1,15 +1,15 @@
 ---
 date: "2017-10-05"
-fragment: content
-title: About Syna
+JPL_: content
+title: About JPL
 weight: 100
 ---
 
-Open Source Theme from Okkur for your next project.
+JPL Research Team project.
 
-Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
+JPL Research Team is Based on the Statistical Research.
 
-The Hugo Agency Theme was based on the work of David Miller with his Startupbootstrap Agency Theme.
+JPl Research team is Initiated by J.Prithiviraj and Praveen.L.
 
 **Provided with <3 by Okkur Labs**
 
