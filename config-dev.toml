@@ -39,10 +39,10 @@ lastmod = ["lastmod", ":git", "date"]
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "favicon.ico"
+    favicon = "![](/./config-dev_files/JPL LOGO FINAL.png)""
     favicon_ico_sizes = "32x32 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
+    favicon_png = "![](/./config-dev_files/JPL LOGO FINAL.png)"
+    favicon_svg = "![](/./config-dev_files/JPL LOGO FINAL.png)"
 
   # Piwik tracking
   [params.analytics.piwik]
@@ -75,7 +75,7 @@ lastmod = ["lastmod", ":git", "date"]
 # configurable.
 [[menu.main]]
   url = "/"
-  name = "Home"
+  name = "Team"
   weight = 10
 
 [[menu.main]]
@@ -124,13 +124,13 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
 
 [[menu.footer]]
-  url = "https://syna.okkur.org/demo"
-  name = "Getting Started"
+  url = "https://drive.google.com/file/d/1LqEWFNIXLrC9YMTaY0wSMn2_5MfiA5bK/view?usp=sharing"
+  name = "JPl Research Team"
   weight = 10
 
 [[menu.footer]]
-  url = "https://about.okkur.org/"
-  name = "About Okkur Labs"
+  url = "https://drive.google.com/file/d/1LqEWFNIXLrC9YMTaY0wSMn2_5MfiA5bK/view?usp=sharing/"
+  name = "About JPL Research Team"
   weight = 20
 
 [[menu.footer_social]]
@@ -141,5 +141,5 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.copyright_footer]]
   url = "/about"
-  name = "About Us"
+  name = "About JPl"
   weight = 10
